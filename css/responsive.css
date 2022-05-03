@@ -1,0 +1,13 @@
+@media (max-width:1024px) {
+    .row1 {
+        flex-direction: column;
+    }
+    .satauri1 {
+        flex-direction: column;
+    }
+}
+@media (max-width:700px) {
+    .ul1 {
+        flex-direction: column;
+    }
+}
